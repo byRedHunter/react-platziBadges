@@ -6,6 +6,7 @@ import Layout from '../components/Layout'
 
 // Pages
 import Home from '../pages/Home'
+import Redirect from '../pages/Home'
 import BadgeNew from '../pages/BadgeNew'
 import BadgeEdit from '../pages/BadgeEdit'
 import Badges from '../pages/Badges'
@@ -19,6 +20,7 @@ export default function App() {
 				{/* este switch lo manda como un props a Layout */}
 				<Switch>
 					<Route exact path='/' component={Home} />
+					<Route exact path='/react-platziBadges' component={Home} />
 					<Route exact path='/badges' component={Badges} />
 					<Route exact path='/badges/new' component={BadgeNew} />
 					<Route

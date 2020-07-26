@@ -5,7 +5,7 @@ Platzi Badges
 React App with a simple api.
 
 View:
-- https://byredhunter.github.io/
+- https://byredhunter.github.io/react-platziBadges/
 
 Link API
 - https://api-platzi-badges.vercel.app/api/badges

@@ -1,0 +1,42 @@
+ul {
+	margin-top: 40px;
+}
+.badge-list {
+	box-sizing: border-box;
+	background: rgb(246, 246, 246);
+	border-radius: 8px;
+	box-shadow: 0 0 5px 0 rgb(148, 148, 148);
+	margin-bottom: 15px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+}
+.badge-list img.list-img {
+	height: 80px;
+	width: 80px;
+	object-fit: cover;
+	border-radius: 50%;
+}
+.badge-list .list-info {
+	height: 100%;
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.list-info h5 {
+	font-weight: bold;
+	font-size: 14px;
+}
+.list-info .info-twitter {
+	font-size: 12px;
+	color: rgb(47, 133, 173);
+}
+.info-twitter img {
+	height: 15px;
+	width: 15px;
+}
+.list-info p {
+	margin: 0;
+	font-size: 14px;
+}

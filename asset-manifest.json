@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-platziBadges/static/css/main.e04a5e1f.chunk.css",
+    "main.js": "/react-platziBadges/static/js/main.208796db.chunk.js",
+    "main.js.map": "/react-platziBadges/static/js/main.208796db.chunk.js.map",
+    "runtime-main.js": "/react-platziBadges/static/js/runtime-main.2c7ceb7c.js",
+    "runtime-main.js.map": "/react-platziBadges/static/js/runtime-main.2c7ceb7c.js.map",
+    "static/css/2.d805e148.chunk.css": "/react-platziBadges/static/css/2.d805e148.chunk.css",
+    "static/js/2.12e445e9.chunk.js": "/react-platziBadges/static/js/2.12e445e9.chunk.js",
+    "static/js/2.12e445e9.chunk.js.map": "/react-platziBadges/static/js/2.12e445e9.chunk.js.map",
+    "index.html": "/react-platziBadges/index.html",
+    "precache-manifest.ec0adb84b4df0ea79474a6ef6d68449f.js": "/react-platziBadges/precache-manifest.ec0adb84b4df0ea79474a6ef6d68449f.js",
+    "service-worker.js": "/react-platziBadges/service-worker.js",
+    "static/css/2.d805e148.chunk.css.map": "/react-platziBadges/static/css/2.d805e148.chunk.css.map",
+    "static/css/main.e04a5e1f.chunk.css.map": "/react-platziBadges/static/css/main.e04a5e1f.chunk.css.map",
+    "static/js/2.12e445e9.chunk.js.LICENSE.txt": "/react-platziBadges/static/js/2.12e445e9.chunk.js.LICENSE.txt",
+    "static/media/astronauts.svg": "/react-platziBadges/static/media/astronauts.71addf45.svg",
+    "static/media/badge-header.svg": "/react-platziBadges/static/media/badge-header.973f5842.svg",
+    "static/media/logo.svg": "/react-platziBadges/static/media/logo.0026b862.svg",
+    "static/media/not_found.svg": "/react-platziBadges/static/media/not_found.985719aa.svg",
+    "static/media/platziconf-logo.svg": "/react-platziBadges/static/media/platziconf-logo.f246f5f1.svg",
+    "static/media/PageError.css": "/react-platziBadges/static/media/server_error.b3095839.svg",
+    "static/media/BadgeDetails.css": "/react-platziBadges/static/media/stars.1d17360a.svg",
+    "static/media/twitter.png": "/react-platziBadges/static/media/twitter.b7cef21b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c7ceb7c.js",
+    "static/css/2.d805e148.chunk.css",
+    "static/js/2.12e445e9.chunk.js",
+    "static/css/main.e04a5e1f.chunk.css",
+    "static/js/main.208796db.chunk.js"
+  ]
+}

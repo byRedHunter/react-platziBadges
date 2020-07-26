@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-platziBadges/static/css/main.e04a5e1f.chunk.css",
-    "main.js": "/react-platziBadges/static/js/main.208796db.chunk.js",
-    "main.js.map": "/react-platziBadges/static/js/main.208796db.chunk.js.map",
+    "main.js": "/react-platziBadges/static/js/main.23a55ebc.chunk.js",
+    "main.js.map": "/react-platziBadges/static/js/main.23a55ebc.chunk.js.map",
     "runtime-main.js": "/react-platziBadges/static/js/runtime-main.2c7ceb7c.js",
     "runtime-main.js.map": "/react-platziBadges/static/js/runtime-main.2c7ceb7c.js.map",
     "static/css/2.d805e148.chunk.css": "/react-platziBadges/static/css/2.d805e148.chunk.css",
     "static/js/2.12e445e9.chunk.js": "/react-platziBadges/static/js/2.12e445e9.chunk.js",
     "static/js/2.12e445e9.chunk.js.map": "/react-platziBadges/static/js/2.12e445e9.chunk.js.map",
     "index.html": "/react-platziBadges/index.html",
-    "precache-manifest.ec0adb84b4df0ea79474a6ef6d68449f.js": "/react-platziBadges/precache-manifest.ec0adb84b4df0ea79474a6ef6d68449f.js",
+    "precache-manifest.449f648a4f7bab4c89593f5d2fb75178.js": "/react-platziBadges/precache-manifest.449f648a4f7bab4c89593f5d2fb75178.js",
     "service-worker.js": "/react-platziBadges/service-worker.js",
     "static/css/2.d805e148.chunk.css.map": "/react-platziBadges/static/css/2.d805e148.chunk.css.map",
     "static/css/main.e04a5e1f.chunk.css.map": "/react-platziBadges/static/css/main.e04a5e1f.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.d805e148.chunk.css",
     "static/js/2.12e445e9.chunk.js",
     "static/css/main.e04a5e1f.chunk.css",
-    "static/js/main.208796db.chunk.js"
+    "static/js/main.23a55ebc.chunk.js"
   ]
 }
